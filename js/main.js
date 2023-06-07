@@ -1,7 +1,7 @@
 const MENSAJE_CANTIDAD_DE_ALUMNOS = "Buenos días, profesor. \nPor favor, ingrese la cantidad de alumnos en su curso.";
 const MENSAJE_CANTIDAD_DE_ALUMNOS_ERROR = "Por favor, ingrese una cantidad de alumnos válida.";
 const MENSAJE_MISMAS_EVALUACIONES = "¿Todos los alumnos tienen la misma cantidad de evaluaciones? \nPresione \"s\" para una respuesta afirmativa.\nPresione \"n\" para una respuesta negativa.";
-const MENSAJE_CANTIDAD_DE_EVALUACIONES_GRUPAL = "Ingrese cantidad de evaluaciones a lo largo del curso";
+const MENSAJE_CANTIDAD_DE_EVALUACIONES_GRUPAL = "Ingrese la cantidad de evaluaciones a lo largo del curso";
 const MENSAJE_SI_NO_ERROR = "Por favor, ingrese \"s\" o \"n\"";
 
 function evaluarNumero(limiteInferior,limiteSuperior,numero){
